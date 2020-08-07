@@ -11,10 +11,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 <a href="https://github.com/dhruvanbhalara">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hruvan-complitech&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvan-complitech&theme=dark&hide_langs_below=1" />
 </a>
 
 <h3>🏆 Github Status</h3></br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=hruvan-complitech&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=dhruvan-complitech&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true&include_all_commits=true)
 </div>
